@@ -1,1 +1,1 @@
-This is secure notes android applications.
+This is secure notes android application.
