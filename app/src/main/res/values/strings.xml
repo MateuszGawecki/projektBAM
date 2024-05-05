@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjektBAM</string>
+    <string name="insecure_device_message">Device is not secure!</string>
+    <string name="data_wiped">Key and file deleted successfully!"</string>
+    <string name="no_key_to_delete">No key found to delete!</string>
+    <string name="error_delete_key">Error deleting key.</string>
+    <string name="blank_data">Cannot write blank string!</string>
+    <string name="no_file">No file to read from!</string>
+    <string name="auth_success">Auth success!</string>
+    <string name="biometric_title">Enter PIN.</string>
+    <string name="data_imported_successfully">Data imported successfully.</string>
+    <string name="decryption_failed">Decryption failed.</string>
+    <string name="blank_password_or_file_name">File name or Password cannot be blank!</string>
+    <string name="provide_password">Provide password.</string>
+    <string name="data_exported_successfully">Data exported successfully.</string>
+    <string name="encryption_failed">Encryption failed.</string>
+    <string name="write_to_file">Writing to file.</string>
+    <string name="read_from_file">Reading from file.</string>
+    <string name="clear_memory">Clearing memory.</string>
+    <string name="export_data">Export data.</string>
+    <string name="import_data">Import data.</string>
+</resources>
